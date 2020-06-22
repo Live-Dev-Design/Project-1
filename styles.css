@@ -88,7 +88,7 @@ header .profile-image:hover {
 .location {
   background-color: black;
   color: #e0eff2;
-  font: italic bold 35px Georgia, Serif;
+  font: italic bold 25px 'Audiowide', Serif;
 }
 .card {
   margin: 30px;
