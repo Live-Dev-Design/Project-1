@@ -86,8 +86,6 @@ header .profile-image:hover {
   margin: 10px auto;
 } 
 .location {
-  background-color: black;
-  color: #e0eff2;
   font: italic bold 25px 'Audiowide', Serif;
 }
 .card {
@@ -212,4 +210,9 @@ a.social:hover {
 
 h1, h2 {
   font-family: 'Audiowide';
+}
+
+img {
+  width: 100%;
+  height: auto;
 }
