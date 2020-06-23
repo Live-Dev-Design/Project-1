@@ -211,6 +211,7 @@ a.social:hover {
   color: #989898;
 }
 
+/* Footer quotes */
 .quote {
   padding: 10px 0 10px;
   color: #989898;
@@ -228,6 +229,13 @@ img {
   height: auto;
 }
 
+/* add drop shadow to article images*/
 .article-pic {
   box-shadow: 0 5px 10px rgb(155, 155, 155);
+}
+
+/* allow more even space for skill.html columns */
+.space {
+  margin: 20px;
+  padding: 20px 30px 40px;
 }
