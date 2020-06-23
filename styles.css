@@ -239,3 +239,7 @@ img {
   margin: 20px;
   padding: 20px 30px 40px;
 }
+
+li.noDot {
+  list-style-type: none;
+}
