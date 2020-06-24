@@ -91,7 +91,7 @@ header .profile-image:hover {
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
-  max-width: 600px;
+  max-width: 700px;
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
@@ -162,6 +162,9 @@ a.linkedin {
 }
 a.github {
   background-image: url(images/github.svg);
+}
+a.email {
+  background-image: url(images/emailcontact.png);
 }
 a.social:hover {
   opacity: 1;
