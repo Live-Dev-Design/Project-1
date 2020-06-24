@@ -38,6 +38,7 @@ a:hover {
   list-style-type: none;
   margin: 0 auto;
   padding: 0;
+  font-family: 'Audiowave', sans-serif;
 }
 
 .nav .name {
@@ -91,7 +92,7 @@ header .profile-image:hover {
 .card {
   margin: 30px;
   padding: 20px 40px 40px;
-  max-width: 700px;
+  max-width: 500px;
   text-align: left;
   background: #fff;
   border-bottom: 4px solid #ccc;
@@ -223,7 +224,16 @@ a.social:hover {
 
 /* Select only the H1-H3 to apply the below font family*/
 h1, h2, h3 {
-  font-family: 'Audiowide';
+  font-family: 'Audiowide', sans-serif;
+}
+
+.buttontop {
+  font-family: 'Courgette', cursive;
+  /* color: #172273; */
+}
+
+.buttontop:hover {
+  color: white;
 }
 
 /* Images needed to be responsive at smaller page sizes */ 
