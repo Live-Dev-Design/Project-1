@@ -240,6 +240,7 @@ img {
   padding: 20px 30px 40px;
 }
 
+/* Remmove list iten style for education.html */
 .noDot {
   list-style-type: none;
   /* text-align: center; */
