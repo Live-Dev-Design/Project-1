@@ -1,2 +1,2 @@
-# Project-1
- My first new project
+# TechDegree-FEWD-Project-1
+ My first project
